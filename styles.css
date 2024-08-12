@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+}
+
+.align{
+	margin:40px;
+	border:50px;
+	border-color:white;
+	background-color:green;
+}
